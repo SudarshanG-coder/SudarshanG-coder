@@ -24,4 +24,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SudarshanG-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudarshanG-coder/SudarshanG-coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudarshanG-coder/SudarshanG-coder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SudarshanG-coder/SudarshanG-coder/output/github-snake.svg" />
+</picture>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
