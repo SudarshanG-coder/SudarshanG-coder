@@ -1,13 +1,40 @@
 <h1 align="center">Hi 👋, I'm Sudarshan G</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=480&lines=AI+ML+Intern+%40+Deepcept+AI;AI+%7C+ML+%7C+DL+Enthusiast;Python+%26+ML+Developer;Open+Source+Contributor;Exploring+Docker+%7C+DevOps" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2500&pause=800&color=3DB2FF&background=1A1A1A00&center=true&vCenter=true&width=520&lines=AI+%26+ML+Intern+%40+Deepcept+AI;AI%7CML%7CDL+Enthusiast;Python+%26+ML+Developer;Open+Source+Contributor" 
+    alt="Typing SVG" />
 </p>
 
 
-## 💫 About Me:
-
-🚀 I'm currently working on<br>Developing a Machine Learning Algorithm Visualization Tool using Python, Qt, and Scikit-Learn for interactive understanding of algorithms.<br><br>AI and ML mini-projects involving Generative AI, NLP, and Deep Learning as part of my internship at Deepcept AI.<br><br>Enhancing my portfolio and contributing to real-world projects using Matplotlib, Pandas, and OpenCV.<br><br>🤝 I'm looking to collaborate on<br>AI/ML/NLP projects that have a strong societal or research impact.<br><br>Innovative Python-based tools for education, automation, or data visualization.<br><br>Projects involving GenAI, Computer Vision, or IoT-based smart solutions.<br><br>🙋‍♂️ I'm looking for help with<br>Deploying ML/DL models effectively using cloud platforms and containers.<br><br>Advanced contributions to open-source AI frameworks like PyTorch or TensorFlow.<br><br>Understanding and building end-to-end ML pipelines and MLOps practices.<br><br>📚 I'm currently learning<br>Advanced Deep Learning concepts and architectures.<br><br>Best practices in software engineering for scalable AI applications.<br><br>💬 Ask me about<br>Python for Machine Learning and data visualization.<br><br>How to get started with AI internships and college projects in tech.<br><br>IoT systems and real-time alert mechanisms using GSM and sensors.<br><br>🤓 Fun fact<br>I once built an LPG alert system that got recognized in a state-level exhibition — it texts you when your gas leaks or runs low!
+## 💫 About Me
+--
+🎓 I'm a passionate **AI and Software Engineering Intern at [Deepcept AI](https://deepcept.ai/)** with a **B.E. in Electronics and Communication Engineering**.My journey in technology is driven by an insatiable curiosity to transform complex data into intelligent, scalable solutions.
+##### 🚀 Current Work & Projects
+- 🔍 **Developing a Machine Learning Algorithm Visualization Tool** using **Python**, **Qt**, and **Scikit-Learn** to help learners grasp ML concepts through interactive visuals.
+- 🤖 Working on **AI/ML mini-projects** involving **Generative AI**, **NLP**, and **Deep Learning** at **Deepcept AI**.
+- 📊 Enhancing my portfolio with real-world projects using **Matplotlib**, **Pandas**, and **OpenCV**, focused on automation and data visualization.
+##### 🤝 Open to Collaborate On
+- Projects in **AI/ML/NLP** with research or social impact.
+- Python-based tools for **education**, **automation**, or **data visualization**.
+- **GenAI**, **Computer Vision**, or **IoT-based smart systems**.
+##### 🤝 Open to Collaborate On
+- Projects in **AI/ML/NLP** with research or social impact.
+- Python-based tools for **education**, **automation**, or **data visualization**.
+- **GenAI**, **Computer Vision**, or **IoT-based smart systems**.
+##### 🧠 Currently Exploring
+- 🧬 Advanced **Deep Learning architectures** and optimization techniques.
+- 📦 **Software engineering best practices** for scalable AI applications.
+##### 🙋‍♂️ Looking for Guidance In
+- 🔧 Deploying ML/DL models with **cloud & containerized solutions**.
+- 🧠 Contributing to **open-source AI frameworks** like PyTorch or Hugging Face.
+- 🛠 Creating robust, production-ready **ML pipelines**.
+##### 💬 Ask Me About
+- Python for **Machine Learning**, **data visualization**, and scripting.
+- Breaking into **AI internships** or college projects that stand out.
+- Building **IoT systems** with sensors and GSM-based alert mechanisms.
+##### 🤓 Fun Fact
+- I built a real-time **LPG Gas Alert System** that sends SMS alerts when gas leaks or runs low — recognized at a **state-level exhibition** for its innovation and impact!
 <br/><br/>
 ## 🌐 Connect With Me
 
