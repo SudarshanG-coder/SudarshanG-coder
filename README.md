@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  <a href="https://sudarshang-portfoilo.netlify.app/" target="_blank">
+  <a href="https://sudarshang-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
     &nbsp;&nbsp;&nbsp;
